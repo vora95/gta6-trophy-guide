@@ -250,6 +250,7 @@ function paintRoadmap() {
     const card = document.createElement("div");
     card.className = "phase";
     const members = trophies.filter((trophy) => phase.kinds.indexOf(trophy.kind) !== -1);
+    const doneCount = members.filter(earnedOf).length;
     const items = members
       .map((trophy) => {
         const done = earnedOf(trophy);
@@ -257,13 +258,64 @@ function paintRoadmap() {
         return `<li class="${done ? "done" : ""}">${done ? "\u2713 " : ""}${escapeHtml(label)} — ${escapeHtml(trophy.grade)}${trophy.missable ? " — CAN MISS" : ""}</li>`;
       })
       .join("");
-    card.innerHTML = `<h3>${escapeHtml(phase.title)}</h3><p>${escapeHtml(phase.text)}</p><ul>${items}</ul>`;
+    card.innerHTML = `<h3>${escapeHtml(phase.title)} — ${doneCount} of ${members.length} earned</h3><p>${escapeHtml(phase.text)}</p><ul>${items}</ul>`;
     host.appendChild(card);
   }
 }
 
+function phaseIndexOf(trophy) {
+  // Which roadmap phase a trophy belongs to, for ordering the planner.
+  if (trophy.kind === "story") return 0;
+  if (trophy.kind === "side") return 1;
+  if (trophy.kind === "misc") return 3;
+  return 2;
+}
+
+function reasonFor(trophy) {
+  if (trophy.missable) return "Can be missed — do it now";
+  if (trophy.story) return trophy.chapter ? `Story, chapter ${trophy.chapter}` : "Story";
+  if (trophy.kind === "side") return "Side story finale";
+  return `Phase ${phaseIndexOf(trophy) + 1} — free roam`;
+}
+
+function nextUpList() {
+  const remaining = trophies.filter((trophy) => !earnedOf(trophy));
+  remaining.sort((a, b) => {
+    if (a.missable !== b.missable) return a.missable ? -1 : 1;
+    const phaseDiff = phaseIndexOf(a) - phaseIndexOf(b);
+    if (phaseDiff !== 0) return phaseDiff;
+    return trophies.indexOf(a) - trophies.indexOf(b);
+  });
+  return remaining.slice(0, 5);
+}
+
+function paintNextUp() {
+  const host = byId("nextUp");
+  if (!host) return;
+  const picks = nextUpList();
+  if (trophies.length === 0) {
+    host.innerHTML = "";
+    return;
+  }
+  if (picks.length === 0) {
+    host.innerHTML = `<h2>Next up</h2><p class="nextup-done">Every trophy earned — the Platinum is yours. Vice Got a Price!</p>`;
+    return;
+  }
+  const rows = picks
+    .map((trophy) => {
+      const label = isHiddenStory(trophy) ? "Hidden story trophy" : trophy.name;
+      return `<li><button type="button" class="nextup-item" data-id="${trophy.id}"><span class="nextup-name">${escapeHtml(label)}</span><span class="nextup-why">${escapeHtml(reasonFor(trophy))} — ${escapeHtml(trophy.grade)}</span></button></li>`;
+    })
+    .join("");
+  host.innerHTML = `<h2>Next up</h2><p class="nextup-intro">Five trophies to chase next, in the order the roadmap suggests. Missable ones come first.</p><ul class="nextup-list">${rows}</ul>`;
+  host.querySelectorAll(".nextup-item").forEach((button) => {
+    button.addEventListener("click", () => pick(button.dataset.id));
+  });
+}
+
 function paintAll() {
   paintProgress();
+  paintNextUp();
   paintList();
   paintDetail();
   paintRoadmap();

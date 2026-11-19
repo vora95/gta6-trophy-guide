@@ -8,7 +8,7 @@
     "hidden": 28,
     "verified": "2026-11-19",
     "sources": ["exophase", "outputlag", "howtovideogame", "press-start", "gamesradar", "pc-gamer", "gtabase", "push-square"],
-    "note": "Names, descriptions and grades verified against the live PlayStation trophy list as mirrored by Exophase and cross-checked against five independent full lists (18 Nov 2026). Rockstar, Sony and Microsoft have not published a list on their own channels. Guide text is written in our own words. Five hidden trophies have no confirmed unlock method yet at launch and say so. No Gamerscore values are shown: published Xbox values conflict between sources."
+    "note": "Names, descriptions and grades checked against the live PlayStation trophy list as mirrored by Exophase, and cross-checked against five independent full lists (18 Nov 2026). Rockstar, Sony and Microsoft have not published a list through their own channels. The guide text is written in our own words. Five hidden trophies still have no confirmed unlock method at launch, and their guides say so. Gamerscore values are left out: the published Xbox numbers disagree with each other."
   },
   "trophies": [
     {
@@ -22,7 +22,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Earn the other 54 trophies and this one unlocks automatically. There is no shortcut: the long pole is A Long Road, the 100% completion Gold. Work the roadmap in order — story first, side stories second, free-roam grinds last — and keep a manual save at the start of every chapter, because there is no mission replay.",
+      "guide": "This one unlocks on its own once the other 54 are done — there is nothing extra to do for it. The long road is A Long Road, the 100% Gold. Work the roadmap in order: story first, then the side strands, then the free-roam grinds, and keep a manual save at the start of every chapter since there is no mission replay.",
       "sources": ["exophase", "outputlag", "howtovideogame", "press-start"]
     },
     {
@@ -36,7 +36,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Finish the 100% checklist (reported as 35 tasks), found after the story under Progress > Stats > 100% Completion. Work done before the credits still counts. The checklist is mostly other trophies: 300 stunts, 70 of 80 Challenges, 200 of 277 vehicles discovered, all 8 bank vaults and all 39 Illegal Operations. Do it last, after the credits, when everything is open.",
+      "guide": "Work through the 100% checklist — a reported 35 tasks, found after the story under Progress > Stats > 100% Completion. Anything you did before the credits still counts. Most of the checklist is other trophies: 300 stunts, 70 of 80 Challenges, 200 of 277 vehicles discovered, all 8 bank vaults and all 39 Illegal Operations. Save it for last, after the credits, when the whole map is open.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -50,7 +50,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Land stunt jumps, fly under bridges, knife flights and base jumps — anything the game counts as a stunt. The counter runs all game, so keep an eye on Progress. You need 250 for the trophy and 300 for 100%, so do not stop at 250.",
+      "guide": "Stunt jumps, flying under bridges, knife flights, base jumps — anything the game counts as a stunt adds to the total. The counter runs the whole game, so watch it in Progress. You need 250 here and 300 for 100%, so keep going past 250.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -64,7 +64,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Earn a gold medal in every Shooting Range challenge — 42 golds across the two ranges, as reported. Treat it as a skill check, not a grind: learn each range's pattern, then run them back to back once your aim is warm.",
+      "guide": "Take a gold medal in every Shooting Range challenge — 42 golds across the two ranges, as reported. This is a skill check, not a grind: learn each range's pattern first, then run them back to back once your aim is warm.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -78,7 +78,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "4",
-      "guide": "Bank vaults open through the optional mission That's Where The Money Is, near the end of Chapter 4: tail an armored security van to a large bank and slip into the vault while the guard has it open. Bring your partner — you cannot carry all the bags alone. Rob 5 vaults and escape each time; every vault immediately gives you a 4-star Wanted Level, so escaping with your partner also earns Hot Together.",
+      "guide": "Vaults open through the optional mission That's Where The Money Is, near the end of Chapter 4: tail an armored security van to a large bank and slip into the vault while the guard has it open. Bring your partner — you cannot carry all the bags alone. Rob 5 vaults and get away each time; every vault gives you a 4-star Wanted Level right away, so escaping with your partner also earns Hot Together.",
       "sources": ["exophase", "outputlag", "gtabase"]
     },
     {
@@ -92,7 +92,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete 8 mission strands for strangers across Leonida. Not every optional questline counts — Andy's, Billy's and Tyrone's have their own trophies and do not count here — so check the trophy's progress counter after each strand you finish. Race Against Yago in Chapter 3 is time-sensitive (hourglass icon): do it the moment it appears, and save first.",
+      "guide": "Complete eight stranger mission strands across Leonida. Some optional questlines do not count — Andy's, Billy's and Tyrone's each have their own trophy — so check the progress counter after every strand you finish. The Chapter 3 Race Against Yago is time-sensitive: it carries an hourglass icon, so do it as soon as it appears and save beforehand.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -106,7 +106,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Collect 3 full Collectible Card sets. Cards are scattered across Leonida; grab them as you explore rather than hunting them all at the end. Track sets in your collection screen so you know which set still needs cards.",
+      "guide": "Finish 3 full Collectible Card sets. Cards are scattered across Leonida; pick them up as you explore instead of hunting them all at the end. Your collection screen shows which sets still need cards.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -120,7 +120,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Use the WAiNK app to scan (WAiNK It) 100 locations. Scan everything you pass — landmarks, shops, signs — and the total climbs on its own. Scanning vehicles with WAiNK also counts toward discovering them for Whip It Good.",
+      "guide": "WAiNK It at 100 locations with the WAiNK app. Scan whatever you pass — landmarks, shops, signs — and the count grows by itself. Vehicles you scan with WAiNK also count as discovered for Whip It Good.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -134,7 +134,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Try each of the 9 activity types once, as reported. The activities list is in your Progress menu — work through it early so you know what exists, then the trophy pops as soon as the ninth type is tried.",
+      "guide": "Try each of the 9 activity types once, as reported. The activities list sits in your Progress menu — work through it early so you know what exists, and the trophy pops as soon as the ninth type is tried.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -148,7 +148,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Win 20 different races — different events, not the same race 20 times. Mix street races, drone races and any other race type; your wins are tracked per event.",
+      "guide": "Win 20 different races — different events, not the same race twenty times. Mix street races, drone races and every other race type; your wins are tracked per event.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -162,7 +162,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "4",
-      "guide": "With your partner beside you, lose a 4-star Wanted Level and escape the heat. The easiest setup is a bank vault job (Maximum Withdrawal): it hands you 4 stars at once. Break line of sight, leave the red heat zone, and wait for the stars to clear — the trophy pops once you are fully clear, not while you are still hiding.",
+      "guide": "Stand next to your partner, shake a 4-star Wanted Level and escape the heat. A bank vault job (Maximum Withdrawal) is the easiest way to get 4 stars at once. Break line of sight, get out of the red heat zone and wait for the stars to clear — it pops once you are fully clear, not while you are still hiding.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -176,7 +176,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Call your partner, then rob 3 shops in a row without letting your Wanted Level drop. If the stars fade and you are only in the red heat zone, the chain breaks — keep the heat on between shops and move fast. The trophy can take about 30 seconds to pop after you leave the third shop.",
+      "guide": "Bring your partner along and rob three shops in a row without losing your Wanted Level. If the stars fade and only the red heat zone remains, the chain breaks — stay hot between shops and move quickly. It can take around 30 seconds to pop after you leave the third shop.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -190,7 +190,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Discover 100 vehicles. Scanning a vehicle with the WAiNK app counts as discovering it, so scan traffic as you drive. You need 200 of the 277 base models for 100%, as reported, so keep scanning long after this trophy pops.",
+      "guide": "Find 100 vehicles. A WAiNK scan counts as a discovery, so scan the traffic as you drive. 100% asks for 200 of the 277 base models, as reported, so keep scanning long after this one pops.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -204,7 +204,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Explore all of Leonida — every region on the map. Drive the roads, visit each area, and watch the map fill in. It pairs naturally with the WAiNK and vehicle-discovery grinds.",
+      "guide": "See all of Leonida, every region on the map. Drive the roads and visit each area until the map is filled in. It goes hand in hand with the WAiNK scans and the vehicle-discovery grind.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -218,7 +218,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Rob one Illegal Operation belonging to each of the 9 gangs, as reported. Operations are marked on the map once you find them; the 100% checklist wants all 39, so this pops on the way. Bring heavy weapons — operations are guarded.",
+      "guide": "Hit one Illegal Operation for each of the 9 gangs, as reported. Operations show on the map once found; 100% wants all 39, so this one pops along the way. Bring heavy weapons — the sites are guarded.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -232,7 +232,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from bank and payday loan jobs; sell them to your contacts to launder them. The total is cumulative across the whole game.",
+      "guide": "Launder $250,000 of Marked Bills through your contacts. Marked Bills come from bank jobs and payday loan jobs; sell them on to your contacts and the total builds up across the whole game.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -246,7 +246,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Win a Top Fun Drone Race at every location — 14 locations, as reported. Win at least one race at each; learn each course's turns before chasing the win.",
+      "guide": "Take a Top Fun Drone Race win at each of the 14 locations, as reported. One win per location is enough; learn a course's turns before you chase the win.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -260,7 +260,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Spend $100,000 across all shops. The total is cumulative and counts every kind of shop — weapons, clothes, food, anything. It fills up naturally if you buy gear as you go; check your spending in Stats if you are close.",
+      "guide": "Spend $100,000 across all shops, cumulatively — weapons, clothes, food, anything counts. It fills up on its own if you buy gear as you go; check Stats if you are close.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -274,7 +274,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "2",
-      "guide": "Buy all 8 garages in the Vice City Real Estate app, which unlocks after the Chapter 2 mission Daily Driver. Together they cost about $160,000, as reported. Garages the story gives you do not count — only bought ones.",
+      "guide": "Buy all eight garages from the Vice City Real Estate app, which opens after the Chapter 2 mission Daily Driver. Together they cost roughly $160,000, as reported. Garages handed to you by the story do not count — only ones you buy.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -288,7 +288,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "2",
-      "guide": "Register 10 vehicles to the Scooter Bros app. The app opens in the Chapter 2 mission Moses: take a stolen car to Moses, choose Respray, then Register. From Chapter 3 you can also register cars with a standard tracker at Pay 'n' Spray. Each car needs a free garage space, so buy garages first and register cheap cars.",
+      "guide": "Put 10 vehicles on the Scooter Bros app. It opens in the Chapter 2 mission Moses: take a stolen car to Moses, pick Respray, then Register. From Chapter 3 you can also register with a standard tracker at Pay 'n' Spray. Every car needs a free garage space, so buy garages first and register cheap cars.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -302,7 +302,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Beat Cal in a fishing challenge. Fishing challenges appear as you play the fishing activity; win the head-to-head against Cal and the trophy is yours.",
+      "guide": "Out-fish Cal in a fishing challenge. The challenges show up as you play the fishing activity; win the head-to-head against Cal and the trophy is yours.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -316,7 +316,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete an arcade game — any arcade machine, any game, one full playthrough. Arcades are in Vice City; sit down, play it through, and the trophy pops at the end.",
+      "guide": "Finish one arcade game all the way through — any machine, any game. The arcades are in Vice City; sit down, play it to the end, and the trophy pops.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -330,7 +330,7 @@
       "missable": true,
       "missableNote": "Lucia's balcony meditation in Chapter 1 counts toward this and disappears after that chapter. Do it in Chapter 1 and keep a Chapter 1 save until the trophy pops.",
       "chapter": "1",
-      "guide": "Meditate at every spot across Leonida — 18 spots, as reported. Spots show as purple icons when you are close. Reported: each outdoor spot counts twice if you meditate there with both characters, so bring your partner every time. CAN MISS: Lucia's balcony meditation in Chapter 1 counts toward this and disappears after Chapter 1. After Lucia is home, check the kitchen in the morning — she heads to the balcony of Jason's house to meditate. Follow her and accept the optional task.",
+      "guide": "Meditate at all 18 spots across Leonida, as reported. Spots show as purple icons when you get close. Reported: an outdoor spot counts twice if you meditate there with both characters, so bring your partner each time. CAN MISS: the balcony meditation with Lucia in Chapter 1 counts and is gone after that chapter. Once Lucia is home, check the kitchen in the morning — she walks out to the balcony of Jason's house to meditate. Follow her and take the optional task.",
       "sources": ["exophase", "outputlag", "howtovideogame", "gtabase"]
     },
     {
@@ -344,7 +344,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Take down 5 enemies in a single use of Combat Focus. Combat Focus is the slow-motion aim (L3 + R3 while aiming). Pick a group of gang enemies — the guards at an Illegal Operation work well — and use an assault rifle. Adrenaline extends Focus, so build it up first.",
+      "guide": "Drop 5 enemies in one use of Combat Focus — the slow-motion aim (L3 + R3 while aiming). Find a group of gang enemies, such as the guards at an Illegal Operation, and use an assault rifle. Build Adrenaline first, since it stretches Focus out.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -358,7 +358,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "3",
-      "guide": "Rob a jewelry store without being detected. The Chapter 3 mission Yasmani's Jewelry Jobs gives you the Snap Gun and opens jewelry robberies. Use the Snap Gun on the store's locked back door — kicking it in sets off the alarm. Inside the back room, find the note with the safe code, open the safe, and leave without being seen. Richardson Jewelry & Diamonds in Vice City is a good target. If someone spots you, reload rather than push on.",
+      "guide": "Rob a jewelry store without anyone noticing. The Chapter 3 mission Yasmani's Jewelry Jobs hands you the Snap Gun and opens jewelry robberies. Use the Snap Gun on the shop's locked back door — kicking it in trips the alarm. In the back room, find the note with the safe code, open the safe and slip out unseen. Richardson Jewelry & Diamonds in Vice City is a good target. If you are spotted, reload instead of pushing on.",
       "sources": ["exophase", "outputlag", "gtabase"]
     },
     {
@@ -372,7 +372,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Rob an Armored Truck and escape. Trucks run set routes — ambush one, grab the cash, and lose the heat. It pairs with the bank-vault jobs in Chapter 4, so try it while you are already geared for robberies.",
+      "guide": "Hold up an Armored Truck and get away. The trucks run set routes — ambush one, take the cash and shake the heat. It fits nicely with the Chapter 4 bank-vault jobs, so try it while you are already set up for robberies.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -386,7 +386,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete 50 Challenges. Challenges are listed under Progress > Challenges — 80 in total, as reported. Many complete on their own while you play; the 100% checklist asks for 70, so keep going past 50.",
+      "guide": "Finish 50 Challenges, listed under Progress > Challenges — 80 in total, as reported. Plenty complete on their own as you play; 100% wants 70, so keep going past 50.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -400,7 +400,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "1",
-      "guide": "Complete the opening mission Gone Fishing. Unmissable — it pops as you play the story.",
+      "guide": "Finish the opening mission, Gone Fishing. Unmissable — it pops while you play the story.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -414,7 +414,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "1",
-      "guide": "Complete Chapter 1. Unmissable. Chapter trophies can pop at the start of the next chapter rather than on the last cutscene, as reported, so do not worry if it is a few minutes late.",
+      "guide": "Finish Chapter 1. Unmissable. Chapter trophies can pop at the start of the next chapter instead of on the last cutscene, as reported, so do not worry if it runs a few minutes late.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -428,7 +428,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "2",
-      "guide": "Complete Chapter 2. Unmissable — it pops as Chapter 3 begins, after Welcome to Vice City. Note: PlayStation publishes this name in the censored form shown here; Press-Start prints it uncensored, and the uncensored form matches the Chapter 3 title reported by GameSpot and others. Re-verified at build time (19 Nov 2026): the live Exophase list shows the description only, so the censored PSN form is used, as the competition's official list requires.",
+      "guide": "Finish Chapter 2. Unmissable — it pops as Chapter 3 opens, after Welcome to Vice City. Note: PlayStation lists this name in the censored form shown here; Press-Start prints it uncensored, and that uncensored form matches the Chapter 3 title reported by GameSpot and others. Checked again at build time (19 Nov 2026): the live Exophase list shows the description only, so the censored PSN form is used, as the competition's official list requires.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -442,7 +442,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "3",
-      "guide": "Complete Chapter 3. Unmissable.",
+      "guide": "Finish Chapter 3. Unmissable.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -456,7 +456,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "4",
-      "guide": "Complete Chapter 4. Unmissable.",
+      "guide": "Finish Chapter 4. Unmissable.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -470,7 +470,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "5",
-      "guide": "Complete the final mission. Unmissable — but keep an untouched manual save from just before it: there is no mission replay, and you will want that save for cleanup.",
+      "guide": "Finish the final mission. Unmissable — but keep an untouched manual save from just before it: there is no mission replay, and you will want that save for cleanup.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -484,7 +484,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "2",
-      "guide": "Complete the mission Breakfast Run (Chapter 2). Unmissable story trophy.",
+      "guide": "Finish the mission Breakfast Run (Chapter 2). Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -498,7 +498,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "3",
-      "guide": "Complete the mission The Cartel Heist (Chapter 3, its final mission). Unmissable story trophy.",
+      "guide": "Finish the mission The Cartel Heist (Chapter 3, its final mission). Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -512,7 +512,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the mission Child's Play. Unmissable story trophy.",
+      "guide": "Finish the mission Child's Play. Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -526,7 +526,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the mission Headliners. Unmissable story trophy.",
+      "guide": "Finish the mission Headliners. Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -540,7 +540,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the mission VCIA Takedown. Unmissable story trophy.",
+      "guide": "Finish the mission VCIA Takedown. Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -554,7 +554,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the mission Operation Savage Glory. Unmissable story trophy.",
+      "guide": "Finish the mission Operation Savage Glory. Unmissable story trophy.",
       "sources": ["exophase", "outputlag", "press-start"]
     },
     {
@@ -568,7 +568,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the final mission for Kenton. Side-story finales stay available after the credits, so there is no rush — finish Kenton's strand when you are ready.",
+      "guide": "Finish Kenton's final mission. Side-story finales stay open after the credits, so there is no rush — wrap up Kenton's strand when you are ready.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -582,7 +582,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the final mission for Billy. Side-story finale; stays available after the credits. Note: Billy's strand does not count toward Strangers & Freaks.",
+      "guide": "Finish Billy's final mission. A side-story finale; still open after the credits. Note: Billy's strand does not count toward Strangers & Freaks.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -596,7 +596,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the final mission for Andy. Side-story finale; stays available after the credits. Reported: Andy's questline is Lucia-only. Note: Andy's strand does not count toward Strangers & Freaks.",
+      "guide": "Finish Andy's final mission. A side-story finale; still open after the credits. Reported: Andy's questline is Lucia-only. Note: Andy's strand does not count toward Strangers & Freaks.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -610,7 +610,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the final mission for Randy. Side-story finale; stays available after the credits.",
+      "guide": "Finish Randy's final mission. A side-story finale; still open after the credits.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -624,7 +624,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Complete the final mission for Tyrone. Side-story finale; stays available after the credits. Reported: Tyrone's questline is Jason-only. Note: Tyrone's strand does not count toward Strangers & Freaks.",
+      "guide": "Finish Tyrone's final mission. A side-story finale; still open after the credits. Reported: Tyrone's questline is Jason-only. Note: Tyrone's strand does not count toward Strangers & Freaks.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -638,7 +638,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Hunt a unique animal for Bret. Bret Vogel's hunting questline is Jason-only, as reported, and sends you after animals through target decks. A clean head or heart shot keeps the carcass pristine. The finale stays available after the credits.",
+      "guide": "Hunt a unique animal for Bret. Bret Vogel's hunting questline is Jason-only, as reported, and sends you after animals through target decks. A clean head or heart shot keeps the carcass pristine. The finale stays open after the credits.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -652,7 +652,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Make an unscheduled departure at VCIA. Steal a large passenger plane docked at a boarding bridge — gates E3 and E4 work, as reported; planes parked elsewhere on the airfield do not count. Get to the cockpit, back out toward the runway and take off. The trophy is delayed: fly about 1 km away from the airport and it pops. Save first — the police come fast.",
+      "guide": "Leave VCIA on a flight nobody scheduled. Steal a large passenger plane docked at a boarding bridge — gates E3 and E4 work, as reported; planes parked elsewhere on the airfield do not count. Reach the cockpit, back out toward the runway and take off. It pops late: fly about 1 km clear of the airport first. Save beforehand — the police arrive fast.",
       "sources": ["exophase", "outputlag", "gtabase"]
     },
     {
@@ -666,7 +666,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Get into a military tank — 'Kinda hot in these Rhinos'. Tanks are reported parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map. Save first, get in, and drive and fire until it pops.",
+      "guide": "Climb into a military tank — 'Kinda hot in these Rhinos'. Tanks are reported parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map. Save first, climb in, and drive and fire until it pops.",
       "sources": ["exophase", "outputlag", "gtabase"]
     },
     {
@@ -680,7 +680,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "2",
-      "guide": "Follow through at the Kolt & Associates bowling alley — Kingpin Bowling, an Illegal Operation you visit in Chapter 2. Bring Sticky Bombs. Take all three key valuables: the luxury watch in an office, the shotgun on a table, and the contents of the office safe, which you blow open with a Sticky Bomb. Then escape the police. If you leave something behind, the operation comes back later, so it is not missable.",
+      "guide": "Follow through at the Kolt & Associates bowling alley — Kingpin Bowling, an Illegal Operation you visit in Chapter 2. Bring Sticky Bombs. Grab all three key valuables: the luxury watch in an office, the shotgun on a table, and what is inside the office safe, which you blow open with a Sticky Bomb. Then lose the police. Leave something behind and the operation comes back later, so it is not missable.",
       "sources": ["exophase", "outputlag", "gtabase"]
     },
     {
@@ -694,7 +694,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "A partnership with mass appeal. Reported: it pops when Jason and Lucia both reach maximum Strength. Buy a gym membership and train with your partner — your partner trains alongside you.",
+      "guide": "A partnership with mass appeal. Reported: it pops when Jason and Lucia both hit maximum Strength. Buy a gym membership and train with your partner — they train alongside you.",
       "sources": ["exophase", "outputlag"]
     },
     {
@@ -708,7 +708,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Choices made, for better or worse. Reported: it counts 500 actions that change your Criminal Profile. Robberies and fights feed it, so it fills up without a separate grind — just play.",
+      "guide": "Choices made, for better or worse. Reported: it counts 500 actions that change your Criminal Profile. Robberies and fights feed it, so it fills up on its own — just play.",
       "sources": ["exophase", "outputlag", "howtovideogame"]
     },
     {
@@ -722,7 +722,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Enjoy a cocktail with a view on Ocean Beach. METHOD NOT YET CONFIRMED at launch — the description is the only hint. The most likely reading is a specific bar or viewpoint on Ocean Beach; try the beachfront bars and viewpoints. This guide will update the method once it is confirmed — do not trust any method that is not confirmed.",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. METHOD NOT YET CONFIRMED at launch — the description is the only hint. The most likely reading is a particular bar or viewpoint on Ocean Beach; try the beachfront bars and viewpoints. This guide will update the method once it is confirmed — do not trust any method that is not confirmed.",
       "sources": ["exophase", "outputlag"]
     },
     {
@@ -736,7 +736,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Smash your way out of a vehicle showroom in classic style. METHOD NOT YET CONFIRMED at launch — the description is the only hint. It most likely involves driving a car through a showroom's glass front; the exact showroom is not confirmed. Do not trust unconfirmed methods.",
+      "guide": "Smash your way out of a vehicle showroom in classic style. METHOD NOT YET CONFIRMED at launch — the description is the only hint. It most likely means driving a car through a showroom's glass front; which showroom is not confirmed. Do not trust unconfirmed methods.",
       "sources": ["exophase", "outputlag"]
     },
     {
@@ -750,7 +750,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Second time's the charm. METHOD NOT YET CONFIRMED at launch — the description is the only hint. The phrasing suggests retrying something that failed once; what exactly is not confirmed.",
+      "guide": "Second time's the charm. METHOD NOT YET CONFIRMED at launch — the description is the only hint. The wording points to retrying something that failed once; what exactly is not confirmed.",
       "sources": ["exophase", "outputlag"]
     },
     {
@@ -764,7 +764,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "What the hell just happened? METHOD NOT YET CONFIRMED at launch — the description is the only hint. It most likely marks a strange or paranormal event somewhere in Leonida; the trigger is not confirmed.",
+      "guide": "What the hell just happened? METHOD NOT YET CONFIRMED at launch — the description is the only hint. Most likely it marks some strange or paranormal event out in Leonida; what sets it off is not confirmed.",
       "sources": ["exophase", "outputlag"]
     },
     {
@@ -778,7 +778,7 @@
       "missable": false,
       "missableNote": "",
       "chapter": "",
-      "guide": "Bowl 'em over with a melee drive-by. METHOD NOT YET CONFIRMED at launch — the description is the only hint. The likely reading is a melee drive-by at a bowling alley (Kingpin Bowling), but that is a deduction from the description, not a confirmed method.",
+      "guide": "Bowl 'em over with a melee drive-by. METHOD NOT YET CONFIRMED at launch — the description is the only hint. A melee drive-by at a bowling alley (Kingpin Bowling) is the likely reading, but that is a deduction from the description, not a confirmed method.",
       "sources": ["exophase", "outputlag"]
     }
   ]
