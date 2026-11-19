@@ -1,5 +1,9 @@
 # Leonida Platinum Guide — GTA VI Trophy Guide & Tracker
 
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/vora95/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/vora95/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+
 A static web app that covers all 55 PlayStation 5 trophies of Grand Theft
 Auto VI and tracks your progress through them. Open it in a desktop browser
 from any static file server; once loaded it needs no network at all.
@@ -48,3 +52,7 @@ screenshots are genuine browser renders of the app (see `shots.json`).
 MIT. Grand Theft Auto and GTA are trademarks of Rockstar Games. This is an
 independent fan-made tracker, not affiliated with Rockstar, and it uses no
 Rockstar logo or official artwork.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=05axmjqh&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
