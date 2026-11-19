@@ -321,7 +321,17 @@ function applyShotMode() {
     state.spoiler = false;
     setView('list');
     selectedId = 'a-long-road';
+    // The detail panel sits below the trophy list, so bring it into view
+    // after the first render — otherwise a screenshot of this mode shows
+    // only the list and never the guide itself.
+    setTimeout(function () {
+      const d = el('detail');
+      if (d && d.scrollIntoView) d.scrollIntoView({ block: 'nearest' });
+    }, 0);
   } else if (shot === 'roadmap') {
+    // A roadmap must name its trophies: show the story names here even
+    // though the spoiler setting hides them in the list by default.
+    state.spoiler = false;
     setView('roadmap');
   } else if (shot === 'progress') {
     state.demo = true;
@@ -334,7 +344,13 @@ function bind() {
   document.querySelectorAll('.view-btn').forEach(function (b) {
     b.addEventListener('click', function () { setView(b.dataset.view); });
   });
-  ['search', 'filterKind', 'filterGrade', 'filterStatus'].forEach(function (id) {
+  // Search filters live on every keystroke (input only). A 'change'
+  // listener on the search box would re-render the list when the box loses
+  // focus — exactly as the user clicks a row — replacing the row under the
+  // mouse before mouseup, which swallows that click. Selects keep both
+  // events: their change fires from picking an option, not from a blur.
+  el('search').addEventListener('input', renderList);
+  ['filterKind', 'filterGrade', 'filterStatus'].forEach(function (id) {
     el(id).addEventListener('input', renderList);
     el(id).addEventListener('change', renderList);
   });
