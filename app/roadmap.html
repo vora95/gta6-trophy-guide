@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Platinum Roadmap — GTA VI Trophy Guide</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Platinum Roadmap</h1>
+  <p>Grand Theft Auto VI — 55 trophies — Leonida / Vice City</p>
+  <nav><a href="index.html">← Back to guide</a></nav>
+</header>
+<main>
+  <p>This page is a plan, not a checklist of secrets. Follow the phases in order and the platinum will come to you instead of the other way around.</p>
+
+  <h2>Phase 1 — Story First</h2>
+  <p>Play the campaign as Lucia and Jason from start to finish. Learn the map,
+  unlock the open world, and enjoy the story without hunting anything.</p>
+  <p>Time: roughly 30–40 hours. Difficulty: easy — just play.</p>
+
+  <h2>Phase 2 — Side Content</h2>
+  <p>Clear side missions, activities and stranger encounters as you find them. Anything tied to a story chapter should be done before that chapter ends.</p>
+  <p>Time: roughly 15–20 hours. Difficulty: moderate.</p>
+
+  <h2>Phase 3 — Collectibles</h2>
+  <p>Work through the collectible sets region by region so you never double
+  back across the whole state. Finish one district before moving on.</p>
+  <p>Time: roughly 10–15 hours. Difficulty: moderate — patience, not skill.</p>
+
+  <h2>Phase 4 — Cleanup</h2>
+  <p>Mop up whatever is left: grinding goals, challenge completions and any
+  trophy that needs a specific setup. Use this phase to replay short missions.</p>
+  <p>Time: roughly 5–10 hours. Difficulty: varies — hardest trophies live here.</p>
+
+  <h2>The Missable Rule</h2>
+  <p>Some content can only be done at a certain point in the story. The rule is simple: when the game offers you a one-time activity, do it now. Never assume you can come back later, and keep a manual save before big story choices.</p>
+
+  <h2>Roadmap Checklist</h2>
+  <p id="progress">Progress: 0 / 4 phases complete</p>
+  <ul>
+    <li><label><input type="checkbox" class="phase"> Phase 1 — Story complete</label></li>
+    <li><label><input type="checkbox" class="phase"> Phase 2 — Side content complete</label></li>
+    <li><label><input type="checkbox" class="phase"> Phase 3 — Collectibles complete</label></li>
+    <li><label><input type="checkbox" class="phase"> Phase 4 — Cleanup complete</label></li>
+  </ul>
+  <p>Total estimate: 60–85 hours for the platinum.</p>
+</main>
+<script>
+const boxes = document.querySelectorAll('.phase');
+const label = document.getElementById('progress');
+boxes.forEach(b => b.addEventListener('change', () => {
+  const done = document.querySelectorAll('.phase:checked').length;
+  label.textContent = 'Progress: ' + done + ' / 4 phases complete';
+}));
+</script>
+</body>
+</html>
